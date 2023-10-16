@@ -1,0 +1,49 @@
+# Compiled class files
+target/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Dependency directories
+mvnw
+mvnw.cmd
+GradleWrapper/
+
+# Logs
+logs/
+*.log
+
+# Spring Boot properties file
+application.properties
+
+# Compiled Java source
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+
+# Maven
+log/
+target/
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+*/.repository/
+*.patch
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
